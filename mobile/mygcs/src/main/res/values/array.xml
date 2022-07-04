@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name ="모드">
+        <item>loiter</item>
+        <item>altitude</item>
+        <item>stabilize</item>
+    </string-array>
+</resources>
