@@ -9,6 +9,10 @@
 
 
 
+
+
 #### 2. 드론에 개발용 보드인 TX2와 웹캠을 장착하여 드론이 자율주행 하는동안 실시간으로 드론App에서 검출된 쓰레기 개수와 종류 확인 가능
 - Darknet과 YOLO를 활용한 학습을 바탕으로 쓰레기 종류를 구분해 데이터로 저장
 - socket 통신을 통해 쓰레기 데이터를 실시간으로 APP에 받아와 확인할 수 있음
+
+![image](https://user-images.githubusercontent.com/49406539/177550767-db337adf-21b7-41be-a0b8-3f77cdb5822e.png)
