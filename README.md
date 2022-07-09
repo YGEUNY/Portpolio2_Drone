@@ -1,4 +1,4 @@
-# Portpolio2 : 드론 프로젝트
+# Portpolio : 드론 프로젝트
 
 ## 주요기능
 #### 1. Android Studio와 Dronekit API를 활용해 드론 조종 App을 만들고 드론과 연결하면 원하는 구역을 드론이 자율주행 할 수 있음
